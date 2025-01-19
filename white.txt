@@ -4,3 +4,4 @@ Bumlamp
 halis2010haliss
 unknowboy86
 m_hashem
+TheStealerDecompiler
